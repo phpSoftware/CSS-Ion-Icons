@@ -13,12 +13,12 @@ CSS Ion Icons
 
 > v1.0.0 (2020-05-14)
 
-__Download [Feather Icons](https://github.com/ionic-team/ionicons) 
+__Download [Ion Icons](https://github.com/ionic-team/ionicons) 
 and run `icon.php` on e.g. localhost. 
 It will read SVG icons from the folder `ion` and build css from it.
 Now you can use the `ion.css` without the SVG Icons!__
 
-*HINT: Only SVGs that don\'t use style="" tag can be converted!
+*HINT: Only SVGs that don\'t use style="" tag can be converted!*
 
 License
 -------
